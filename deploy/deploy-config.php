@@ -44,7 +44,7 @@ define('BRANCH', 'master');
  *
  * @var string Full path including the trailing slash
  */
-define('TARGET_DIR', '../../dev/');
+define('TARGET_DIR', '../../zencart_153_clean/');
 
 /**
  * Weather to delete the files that are not in the repository but are on the
